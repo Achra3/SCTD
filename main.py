@@ -1,7 +1,7 @@
 # Some Ideas from: KIPAS, Geruays & Revan AR
 # Script created by PhynX
 
-import requests, threading, datetime, sys, os, time
+import request, threading, datetime, sys, os, time
 
 def main():
 	global auth, maxerr, api, pos, dely
